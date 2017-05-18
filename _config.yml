@@ -26,6 +26,10 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-multiple-languages-plugin
+  
 exclude:
   - Gemfile
   - Gemfile.lock
